@@ -1,0 +1,80 @@
+{
+  "name": "LS: Sinister Squirrel Syn #3773",
+  "symbol": "LS",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "https://nftstorage.link/ipfs/QmcTXpZdSjE9Mh3egCAZsRENGjo2yayGQRKvgdTuGLJZGk/1438.png",
+  "attributes": [
+  {
+      "trait_type": "Gang:",
+      "value": "Nutcrackers MC Member"
+    },
+    {
+      "trait_type": "IAID:",
+      "value": "266666"
+    },
+    {
+      "trait_type": "Primary Background:",
+      "value": "Snowdrift"
+    },
+    {
+      "trait_type": "Secondary Background:",
+      "value": "None"
+    },
+    {
+      "trait_type": "Splatter:",
+      "value": "Flesh Wound"
+    },
+    {
+      "trait_type": "Body:",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Pants:",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Wallet Chain:",
+      "value": "None"
+    },
+    {
+      "trait_type": "Shirt:",
+      "value": "Black Tee"
+    },
+    {
+      "trait_type": "Weapon 1:",
+      "value": "Switchblade"
+    },
+    {
+      "trait_type": "Weapon 2:",
+      "value": "Grenade"
+    },
+    {
+      "trait_type": "Eyes:",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Ski Mask:",
+      "value": "Red Two Eye"
+    },
+    {
+      "trait_type": "Eye Accessories:",
+      "value": "Goggles"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
